@@ -1,0 +1,28 @@
+{
+    "skills": [
+        {
+            "id":"1",
+            "src": "./img/product-chain-1.png",
+            "title":"Front-end",
+            "description": "JavaScript == HTML ==CSS ==React JS ==Tailwind CSS ==Bootstrap ==Node JS"
+        },
+        {
+            "id":"2",
+            "src": "./img/tag-1.png",
+            "title":"Back-end",
+            "description": "Lorem Ipsum Dollor sit ammet, consecttur asi elit. Various ein in eros elemntatum tristique"
+        },
+        {
+            "id":"3",
+            "src": "./img/feather-pen-2.png",
+            "title":"UI and UX Design",
+            "description": "Lorem Ipsum Dollor sit ammet, consecttur asi elit. Various ein in eros elemntatum tristique"
+        },
+        {
+            "id":"4",
+            "src": "./img/feather-pen-1.png",
+            "title":"WordPress Development",
+            "description": "Lorem Ipsum Dollor sit ammet, consecttur asi elit. Various ein in eros elemntatum tristique"
+        }
+    ]
+}

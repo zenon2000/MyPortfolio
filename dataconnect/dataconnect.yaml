@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "arjieportfolio"
+location: "us-central1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "fdcdb"
+      cloudSql:
+        instanceId: "arjieportfolio-fdc"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]
